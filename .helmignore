@@ -8,3 +8,4 @@
 *.local.sh
 Makefile
 Makefile.*
+CLAUDE.md
