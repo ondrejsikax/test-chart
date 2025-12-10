@@ -7,3 +7,4 @@
 *.local.yml
 *.local.sh
 Makefile
+Makefile.*
