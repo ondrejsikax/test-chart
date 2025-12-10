@@ -1,0 +1,9 @@
+.git
+*.tgz
+.DS_Store
+.vscode
+.idea
+*.local.yaml
+*.local.yml
+*.local.sh
+Makefile
