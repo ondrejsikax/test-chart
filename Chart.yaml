@@ -2,5 +2,5 @@ apiVersion: v2
 name: test-chart
 description: A Test Helm Chart
 type: application
-version: 0.2.0
-icon: https://raw.githubusercontent.com/sikalabs/hello-world-server/refs/heads/master/internal/server/favicon.ico
+version: 0.3.0
+icon: https://raw.githubusercontent.com/ondrejsikax/test-chart/refs/heads/master/icon_192x192.png
