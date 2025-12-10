@@ -2,7 +2,7 @@ apiVersion: v2
 name: test-chart
 description: A Test Helm Chart
 type: application
-version: 0.5.0
+version: 0.5.1
 icon: https://raw.githubusercontent.com/ondrejsikax/test-chart/refs/heads/master/icon_192x192.png
 home: https://github.com/ondrejsikax/test-chart
 sources:
